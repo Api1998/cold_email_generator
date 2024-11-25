@@ -6,6 +6,7 @@ Generate a cold email based on a job posting to a client company with relevant p
 
 - [About](#about)
 - [Features](#features)
+- [System Architecture](#system_architecture)
 - [Usage](#installation)
 
 
@@ -19,6 +20,9 @@ This project solves a simple business problem where we need generate cold mails 
 - Offers a simple steamlit app for a protype testing
 - This uses LLAMA 3.1 to generate cold emails
 - This will save a lot of time writing emails based on different job requirement and generate a base email by extracting the key informations from a job posting which we can modify if needed.
+
+## System Architecture
+   ![LLM system](system_architecture.png)
 
 ## Usage
 
@@ -36,7 +40,7 @@ Make sure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/project-name.git
+   git clone https://github.com/Api1998/cold_email_generator.git
    ```
 
 2. Run the streamlit app:
