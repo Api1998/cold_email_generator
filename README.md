@@ -6,8 +6,8 @@ Generate a cold email based on a job posting to a client company with relevant p
 
 - [About](#about)
 - [Features](#features)
-- [System Architecture](#system_architecture)
-- [Usage](#installation)
+- [System Architecture](#system-architecture)
+- [Usage](#usage)
 
 
 ## About
